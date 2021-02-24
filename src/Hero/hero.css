@@ -1,0 +1,33 @@
+.hero-bg-div{
+    background: linear-gradient(253.58deg, #FFC000 1.55%, #FF8A00 95.8%);
+    background-image: url(../images/Hero.png ) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.hero-bg-p{
+    font-family: Proxima Nova;
+    font-size: 44px;
+    line-height: 158.34%;
+    color: #FFF7DF;
+}
+.hero-sm-p{
+    font-family: Proxima Nova;
+    font-size: 18px;
+    line-height: 33px;
+    color: #FFF7DF;
+}
+.hero-btn{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFC000;
+    width: 160px;
+    height: 56px;
+    border-radius: 45px;
+    border:0;
+    background: #FFF7DF;
+}

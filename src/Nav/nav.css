@@ -1,0 +1,36 @@
+.nav{
+    background-color:rgb(238, 238, 238);
+    border:0.3px solid rgb(202, 202, 202);
+}
+.nav-input{
+    width:100%;
+    position:relative;
+    height: 35px;
+    border-radius: 100px;
+    padding-left: 20px;
+    outline: none;
+  border:1.5px solid  #79b3f4;
+}
+.nav-btn{
+    position: absolute;
+    margin-left: -40px;
+    font-size:19px;
+    border:0;
+    background: none;
+    color: #79b3f4;
+}
+.nav-notification{
+    font-size:19px;
+    color: #79b3f4;
+}
+.nav-user{
+    font-size:19px;
+    color: #79b3f4;
+}
+.anticon-menu-fold, .anticon-menu-unfold{
+    font-size: 20px !important;
+    color: #79b3f4 !important;
+}
+.ant-menu-vertical,.ant-menu-inline{
+    border:0.3px solid rgb(202, 202, 202)!important
+}
