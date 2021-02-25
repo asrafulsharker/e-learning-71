@@ -5,11 +5,16 @@ import Course from '../course/course'
 import './home.css';
 function home() {
     return (
-        <div>
+        <div className="row">
+            <div className="col-md-2">
+
+            </div>
+            <div className="col-md-10">
             I am from home !
             <Hero/>
             <Exparts/>
             <Course/>
+            </div>
         </div>
     )
 }

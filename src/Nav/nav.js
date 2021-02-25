@@ -49,7 +49,7 @@ class Nav extends React.Component{
             </div>
                         {/* ant */}
                         <br/>
-                        <div style={{ width: 170 }}>
+                        <div style={{ width: 225 }}>
                             <Button type="" onClick={this.toggleCollapsed} style={{ marginBottom: 16,textAlign:"center"}}>
                             {React.createElement(this.state.collapsed ? MenuUnfoldOutlined : MenuFoldOutlined)}
                             
