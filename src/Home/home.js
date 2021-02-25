@@ -7,13 +7,12 @@ function home() {
     return (
         <div className="row">
             <div className="col-md-2">
-
             </div>
             <div className="col-md-10">
             I am from home !
             <Hero/>
             <Exparts/>
-            <Course/>
+            {/* <Course/> */}
             </div>
         </div>
     )
