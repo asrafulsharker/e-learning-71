@@ -12,7 +12,7 @@ function home() {
             I am from home !
             <Hero/>
             <Exparts/>
-            {/* <Course/> */}
+            <Course/>
             </div>
         </div>
     )
